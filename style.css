@@ -1,0 +1,36 @@
+* {
+    margin: auto;
+  padding:0;
+  font-family: "poppins", "sans-serif";
+  box-sizing: border-box;
+}
+.General-container{
+    background-color: white;
+  max-width: 50%;
+    margin:auto;
+    padding: 25px 15px 25px 15px;
+    border:1px solid gray ;
+    border-radius: 10px;
+}
+h1{
+    font-size:18px;
+}
+h2{
+    text-decoration: underline;
+}
+.first{
+    font-size: 14px;
+    color: green;
+    font-style: italic;
+}
+.second{
+    color: red;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.third{
+    font-size: 14px;
+    color: blue;
+    font-style: italic;
+}
